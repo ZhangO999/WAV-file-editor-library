@@ -1,0 +1,6 @@
+*.o
+main
+*.out
+*.tmp
+*.swp
+.vscode/

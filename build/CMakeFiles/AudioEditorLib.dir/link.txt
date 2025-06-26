@@ -1,0 +1,2 @@
+/usr/bin/ar qc libAudioEditorLib.a CMakeFiles/AudioEditorLib.dir/SoundSegment.cpp.o
+/usr/bin/ranlib libAudioEditorLib.a

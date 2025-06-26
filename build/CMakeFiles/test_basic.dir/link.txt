@@ -1,0 +1,1 @@
+/usr/bin/c++  -stdlib=libc++ -O3 -DNDEBUG -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/test_basic.dir/tests/test_basic.cpp.o -o test_basic  libAudioEditorLib.a

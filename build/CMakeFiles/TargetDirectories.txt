@@ -1,0 +1,10 @@
+/Users/oliverzhang/Desktop/home (3)/build/CMakeFiles/AudioEditorLib.dir
+/Users/oliverzhang/Desktop/home (3)/build/CMakeFiles/demo.dir
+/Users/oliverzhang/Desktop/home (3)/build/CMakeFiles/test_basic.dir
+/Users/oliverzhang/Desktop/home (3)/build/CMakeFiles/test.dir
+/Users/oliverzhang/Desktop/home (3)/build/CMakeFiles/edit_cache.dir
+/Users/oliverzhang/Desktop/home (3)/build/CMakeFiles/rebuild_cache.dir
+/Users/oliverzhang/Desktop/home (3)/build/CMakeFiles/list_install_components.dir
+/Users/oliverzhang/Desktop/home (3)/build/CMakeFiles/install.dir
+/Users/oliverzhang/Desktop/home (3)/build/CMakeFiles/install/local.dir
+/Users/oliverzhang/Desktop/home (3)/build/CMakeFiles/install/strip.dir
