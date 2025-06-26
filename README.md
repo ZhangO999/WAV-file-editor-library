@@ -264,4 +264,4 @@ This project is provided as-is for educational purposes. Please respect any orig
 
 - Original C implementation as the foundation
 - COMP2017/9017 assignment specification for requirements
-- Modern C++ best practices and design patterns 
+- Modern C++ best practices and design patterns
