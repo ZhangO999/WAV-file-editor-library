@@ -3,8 +3,7 @@
 A modern C++ implementation of an audio editing backend with support for WAV file I/O, segment-based audio manipulation, and advanced operations like advertisement detection and shared backing store.
 
 ## Overview
-
-This project is a C++ conversion of a C audio editing assignment. It provides a comprehensive audio editing library with the following features:
+The code base includes the following features: 
 
 - **WAV File I/O**: Read and write standard 16-bit mono WAV files
 - **Segment-based Architecture**: Efficient audio manipulation using linked segments
@@ -218,50 +217,3 @@ The project includes comprehensive test suites:
 - Smart pointers ensure automatic memory management
 - Weak pointers prevent circular references in parent-child relationships
 
-## Comparison with Original C Implementation
-
-### Improvements
-- **Memory Safety**: Smart pointers eliminate manual memory management
-- **Type Safety**: Strong typing and const-correctness
-- **Exception Safety**: RAII and exception handling
-- **Code Organization**: Proper encapsulation and modularity
-- **Testing**: Comprehensive test suites with multiple approaches
-
-### Maintained Features
-- All original functionality preserved
-- Same algorithmic complexity
-- Compatible WAV file format
-- Equivalent performance characteristics
-
-## Known Limitations
-
-1. **Shared Insertion**: Current implementation creates copies instead of true shared backing for insert operations (safer but less memory efficient)
-2. **WAV Format**: Limited to 16-bit mono PCM format
-3. **Platform**: Developed and tested primarily on Unix-like systems
-
-## Future Enhancements
-
-- [ ] True shared backing store for insert operations
-- [ ] Support for stereo and other WAV formats
-- [ ] Python bindings using pybind11
-- [ ] Multi-threading support for large operations
-- [ ] Additional audio effects and filters
-- [ ] Real-time audio processing capabilities
-
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Add tests for new functionality
-4. Ensure all tests pass
-5. Submit a pull request
-
-## License
-
-This project is provided as-is for educational purposes. Please respect any original assignment guidelines and academic integrity policies.
-
-## Acknowledgments
-
-- Original C implementation as the foundation
-- COMP2017/9017 assignment specification for requirements
-- Modern C++ best practices and design patterns
